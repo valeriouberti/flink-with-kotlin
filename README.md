@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
    ```
 2.  Navigate to the project directory
    ```bash 
-   cd real-time-data-processing
+   cd flink-with-kotlin
    ```
 3. Build the project using Maven
    ```bash
