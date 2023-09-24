@@ -31,7 +31,11 @@ To run the application locally, follow these steps:
    ```bash 
    cd flink-with-kotlin
    ```
-3. Build the project using Maven
+3. Start the Flink cluster
+   ```bash
+   docker-compose up -d
+   ```
+4. Build the project using Maven
    ```bash
    mvn clean package
    ```
